@@ -129,6 +129,6 @@ Python · PyTorch · Stable-Baselines3 · sb3-contrib · Gymnasium · python-che
 
 ## Author
 
-**Yasser Baidi** — MSc Artificial Intelligence Technology
+**Yasser Baidi**  MSc Artificial Intelligence Technology at Northumbria University London
 
 *This project was submitted as part of an MSc dissertation. The data is from the openly available Lichess puzzle database.*
