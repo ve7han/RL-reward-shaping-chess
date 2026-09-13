@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw dataset - 290MB, exceeds GitHub limit
+lichess_db_puzzle.csv.zst
+
+# Model checkpoints and tensorboard logs - 338MB
+experiment_results/*
+!experiment_results/*.json
+
+# Environment
+.env
